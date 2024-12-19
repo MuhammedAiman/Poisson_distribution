@@ -1,3 +1,12 @@
+# Poisson_distribution
+
+Ex no:2
+
+Date:05/10/2024
+
+Name:**MUHAMMED AIMAN S**
+
+Register:**24901053**
 
 # Aim : 
 
@@ -75,5 +84,4 @@ else:
 # Results
 The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test.
 
-The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
  
