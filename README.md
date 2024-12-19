@@ -1,4 +1,13 @@
 # Fitting Poisson  distribution
+
+Ex no:2
+
+Date:05/10/2024
+
+Name:**MUHAMMED AIMAN S**
+
+Register:**24901053**
+
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
